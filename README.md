@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-header.png" alt="GitHub Header" width="100%" />
+</p>
 
 # Hi, I’m Layan
 
