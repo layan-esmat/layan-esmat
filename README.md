@@ -4,14 +4,14 @@
 
 # Hi, I’m Layan
 
-Artificial Intelligence Undergraduate Student | Graphic Designer | 3D Artist
+Artificial Intelligence Student | Graphic Designer | 3D Artist
 
-I’m an **Artificial Intelligence undergraduate student** with experience in **graphic design** and **3D modeling using Blender**. I’m interested in building intelligent systems and presenting complex ideas through clear, human-centered visual communication.
+I’m an **Artificial Intelligence student** with experience in **graphic design** and **3D modeling using Blender**. I’m interested in building intelligent systems and presenting complex ideas through clear, human-centered visual communication.
 
 ---
 
 ## About Me
-- Artificial Intelligence student (Level 7)
+- Artificial Intelligence student (Level 9)
 - Graphic designer focused on clean layouts and visual clarity
 - Experience in 3D modeling and basic 3D design using Blender
 - Interested in machine learning, data-driven systems, and AI-powered visual applications
